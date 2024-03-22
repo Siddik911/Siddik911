@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Siddik911
-- 👀 I’m interested in- ML
+- 👀 I’m interested in - CP
 - 🌱 I’m currently learning - Software Engineering
 - 💞️ I’m looking to collaborate on- Backend Projects
 - 📫 How to reach me-Gmail: hasansiddiki65@gmail.com
