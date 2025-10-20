@@ -31,8 +31,6 @@ My curiosity drives me to explore how <strong>AI and deep learning</strong> can 
 <h2>📫 <strong>Get in Touch</strong></h2>
 <ul>
   <li>📧 Email: <a href="mailto:hasansiddiki65@gmail.com">hasansiddiki65@gmail.com</a></li>
-  <li>💼 <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">LinkedIn</a> (optional)</li>
-  <li>🌐 <a href="https://your-portfolio.com" target="_blank">Portfolio / Website</a> (optional)</li>
 </ul>
 
 <hr>
