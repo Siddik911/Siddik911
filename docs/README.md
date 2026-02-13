@@ -130,7 +130,7 @@ If no suitable font is found, the script will warn you but still generate a PDF 
 ### PDF Properties
 
 - Page size: A4
-- Margins: 1 inch (72 points)
+- Margins: Top/Left/Right 1 inch (72 points), Bottom 0.25 inches (18 points)
 - Font size: 12pt for questions, 11pt for options
 - Encoding: UTF-8 (full Unicode support)
 
